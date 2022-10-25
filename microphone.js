@@ -19,7 +19,7 @@ class Microphone {
         alert(err);
       });
   }
-  getSample() {
+  getSamples() {
     this.analyser.getByteTimeDomainData(this.dataArray);
     let normSamples = [...this.dataArray].map((e) => e / 128 - 1);
     return normSamples;
