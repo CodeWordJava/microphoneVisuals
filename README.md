@@ -10,4 +10,4 @@ HTML5, CSS3, JavaScript
 
 ## Link to demo
 
-`video: https://youtu.be/rbn8jgLjX8I`
+https://youtu.be/rbn8jgLjX8I
